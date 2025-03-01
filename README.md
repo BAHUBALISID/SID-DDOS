@@ -24,7 +24,7 @@ Linux (Kali, Ubuntu, Debian)
 
 sudo apt update && sudo apt install python3 python3-pip -y
 
-git clone https\://github.com/yourrepo/sid-ddos.git
+git clone https://github.com/BAHUBALISID/SID-DDOS.git
 
 cd SID-DDOS
 
@@ -44,7 +44,7 @@ Clone the repository:
 
 
 
-git clone https\://github.com/yourrepo/sid-ddos.git
+git clone https://github.com/BAHUBALISID/SID-DDOS.git
 
 cd sid-ddos
 
