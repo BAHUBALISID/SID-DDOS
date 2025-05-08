@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 
 
-python3 start.py \<target\_ip> \<port> \<attack\_method> \<time>
+python3 sid.py \<target\_ip> \<port> \<attack\_method> \<time>
 
 
 
